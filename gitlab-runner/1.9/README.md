@@ -8,8 +8,8 @@
 
 ## Prerequisites
 
-- A running DC/OS 1.8 cluster with at least 1 node having at least 1 CPU and 2 GB of RAM available.
-- [DC/OS CLI](https://dcos.io/docs/1.8/usage/cli/install/) installed.
+- A running DC/OS 1.9 cluster with at least 1 node having at least 1 CPU and 2 GB of RAM available.
+- [DC/OS CLI](https://dcos.io/docs/1.9/usage/cli/install/) installed.
 - A running GitLab instance, preferably installed from the Universe.
 
 ## Concepts
